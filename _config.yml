@@ -1,0 +1,51 @@
+---
+version: 4.0.0
+name: pablitocalvo
+description: sito caotico e disordinato  
+url: https://pablitocalvo.github.io
+repository: https://github.com/pablitocalvo/pablitocalvo.github.io
+timezone: Europe/Rome
+twitter:
+  username:
+logo: "/img/logo-2x.png"
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+  posts:
+    permalink: "/news/:year/:month/:day/:title/"
+    output: true
+
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: news_item
+- scope:
+    path: ''
+  values:
+    image: "/img/jekyll-og.png"
+future: true
+plugins:
+- jekyll-avatar
+- jekyll-feed
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
+feed:
+  categories:
+  - release
+sass:
+  style: compressed
+strict_front_matter: true
+exclude:
+- ".gitignore"
+- ".*cache"
+- CNAME
+- icomoon-selection.json
+- readme.md
+- appunti.md
+

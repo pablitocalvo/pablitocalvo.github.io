@@ -1,0 +1,9 @@
+- title: Home
+  link: /
+  show_on_mobile: true
+- title: tiniX
+  link: /tinix/
+  show_on_mobile: true
+- title: Blog
+  link: /blog/
+  show_on_mobile: true

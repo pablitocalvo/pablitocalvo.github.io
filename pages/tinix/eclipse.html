@@ -1,0 +1,163 @@
+---
+title: Installing eclipse on tiniX
+permalink: /tinix/eclipse
+---
+
+<!DOCTYPE html>
+<head>
+<style >
+code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 3px;
+}
+</style>
+<script type="text/javascript" src="/js/js-toaster/toast.js"></script>
+<script>
+ function copia( id ){ 
+  
+ //alert ("id="+ id.innerHTML );
+  stringa= id.innerHTML;
+  
+  stringa=stringa.replace("&gt;", ">");
+  stringa=stringa.replace("&gt;", ">");
+//  alert(stringa);
+  const el = document.createElement('textarea');
+  el.value = stringa;
+  el.setAttribute('readonly', '');
+  el.style.position = 'absolute';
+  el.style.left = '-9999px';
+  document.body.appendChild(el);
+  el.select();
+  document.execCommand('copy');
+  document.body.removeChild(el);
+ 
+ var options = {
+	style: {
+		main: {
+			background: "pink",
+			color: "black"
+		}
+	},
+	settings: {
+		duration: 1000
+	}
+	};
+
+iqwerty.toast.Toast("comando   " + stringa + "   copiato negli appunti" , options);
+//thaks to https://github.com/mlcheng/js-toast	 
+}
+ 
+ 
+</script>
+</head>
+<html>
+	<h2> installare eclipse su tiniX </h2>
+<ul>
+
+<li>scaricare eclipse package da qui :
+
+<a href="https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-09/R/eclipse-java-2019-09-R-linux-gtk-x86_64.tar.gz">
+eclipse page
+</a> (198 MiBi)
+
+</li>
+<li> aprire un terminale e digitare :
+<br>
+
+
+<br>
+
+aprire un terminale: e digitare il comando:
+<br>
+
+<code><svg onclick="copia( sudo )" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg>
+	
+	user@tiniX:~$ <span class="copia" id="sudo">sudo su</span>
+
+</code>	
+<br> il terminale dovrebbe apparire ora nel seguente modo:
+<br>	
+<code class=output> 	root@tiniX:/home/user# </code>	
+<br>
+	
+	
+<li>
+	digitare il comando : 
+<br>
+<code>
+   <svg onclick="copia( cdopt )" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg>
+
+	root@tiniX:/home/user#<span class="copia" id="cdopt"> cd /opt/</span>
+
+</code>	
+<br>
+
+	il terminale dovrebbe apparire ora nel seguente modo:
+<br>
+	
+	<code class="output" >
+	  root@tiniX:/opt# 
+   </code>	
+<br>
+
+</li>
+<li> scompattare il file scaricato con il comando : 
+
+<code><svg onclick="copia( tar )" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg>
+
+	root@tiniX:/opt# <span class="copia" id ="tar"> tar xvfz /home/user/Scaricati/eclipse-java-2019-09-R-linux-gtk-x86_64.tar.gz </span> 
+	
+</code> 
+<br>
+</li>
+
+
+
+<li> uscire dalla utenza root: 
+
+<code><svg onclick="copia( cdhome )" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg>
+
+	root@tiniX:/opt# <span class="copia" id ="cdhome"> cd /home/user; exit  </span>
+</code> 
+<br>
+ora il terminale dovrebbe apparire cosi:
+<code class="output">
+	user@tiniX:~$ 
+</code> 
+<br>
+</li>
+
+<li>creare icona sul desktop ...
+<br>
+
+	<code><svg onclick="copia(pluma )" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg>
+
+   user@tiniX:~$ <span class="copia" id=pluma >pluma Scrivania/Eclipse.desktop</span>
+	</code>	
+<br>
+copiare e incollare le seguenti righe:
+
+<code>
+#!/usr/bin/env xdg-open <br>
+
+[Desktop Entry]<br>
+Name=Eclipse Java IDE</br>
+Comment=Eclipse Java IDE</br>
+Type=Application</br>
+Encoding=UTF-8</br>
+Exec=/opt/eclipse/eclipse</br>
+Icon=/opt/eclipse/icon.xpm</br>
+Categories=GNOME;Application;Development;</br>
+Terminal=false</br>
+StartupNotify=true</br>
+</code>
+<br>
+Sakvare il file e bla bla bla ....
+<br> TO BE CONTINUED ....
+</li>
+
+</ul>
+
+</html>
