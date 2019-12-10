@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post.lay
 title:  "newssss"
 date:   2019-12-08 15:04:05 +0100
 categories: news

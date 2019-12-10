@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: post.lay
 title: News
 permalink: /blog/news/
 author: all
 ---
 
 {% for post in site.categories.news %}
-  {% include post_item.html %}
+  {% include post_item.inc.html %}
 {% endfor %}
