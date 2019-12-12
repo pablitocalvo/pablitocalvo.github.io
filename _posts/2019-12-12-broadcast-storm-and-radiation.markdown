@@ -57,7 +57,9 @@ Se foste un insegnante permettereste che se ad un alunno serva una gomma da canc
 Seehh e che volete frammentare una rete di circa 200 pc in domini di broadcast?
 perchè no? 
 
-uno switch layer3 costa oramai quanto uno layer 2 ...
+uno [switch layer3](https://www.ibs.it/hewlett-packard-enterprise-officeconnect-1920s-informatica-hewlett-packard-enterprise/e/0190017137407?lgw_code=1122-W0190017137407&gclid=EAIaIQobChMIgMadw9yw5gIVhsCyCh3N_AB4EAkYBiABEgKfyfD_BwE) 
+costa quasi quanto uno 
+[layer 2](https://www.it-market.com/en/hewlett-packard/hp-switches/hp-jg913a1?gclid=EAIaIQobChMIpOig6d2w5gIVA-h3Ch3ESAv-EAQYASABEgKkTvD_BwE) ...
 
 se proprio no, allora la lan deve essere ben configurata !!!
 
