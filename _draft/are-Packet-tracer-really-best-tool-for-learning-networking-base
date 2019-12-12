@@ -1,0 +1,22 @@
+
+
+sui switch cisco sono è abilitato di default
+
+https://community.cisco.com/t5/other-network-architecture/is-spanning-tree-enabled-by-default/td-p/52334
+
+huawey : si (MSTP mode)
+
+https://forum.huawei.com/enterprise/en/example-for-configuring-stp-all-about-switches/thread/322707-861
+
+
+netgear : no  "By default, STP is disabled."
+
+https://kb.netgear.com/000053871/How-do-I-enable-or-disable-Spanning-Tree-Protocol-STP-or-Rapid-Spanning-Tree-Protocol-RSTP-in-Insight
+
+
+
+
+nerd!
+
+
+https://www.youtube.com/watch?v=aPtr43KHBGk
