@@ -1,0 +1,3 @@
+Anount of byte necessari per traslazione...
+
+https://community.cisco.com/t5/switching/maximum-concurrent-nat-sessions-for-pat-overload/td-p/2682727
