@@ -8,7 +8,7 @@ categories: [blog,lezioni, java , thread]
 
 seguire il tutorial :
 
-[https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html(https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html)
+[https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html](https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html)
 
 dei due modi per lanciare un thread seguire il secondo.
 
