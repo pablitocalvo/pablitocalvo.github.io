@@ -12,4 +12,14 @@ https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html
 
 dei due modi per lanciare un thread seguire il secondo.
 
-####esercizio
+#### esercizio
+
+modificare il programma in modo che lanci 10 thread ...
+
+
+#### esercizio :
+
+come fare per distinguere quale thread stampa la frase?
+suggerimento : Diamo un'identità al thread !!
+
+
