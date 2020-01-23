@@ -1,4 +1,9 @@
-
+---
+layout: post.lay
+title:  "RAW Cloud"
+date:   2020-01-23 20:24:00 +0100
+categories: blog
+---
 
 
 Progetto : un Cloud grezzo ...
