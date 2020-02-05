@@ -29,8 +29,10 @@ ma alcune risultati di google riportano come virus delle pennette ( e rimovibili
 
 spotligth-v100.exe !!
 
-[http://it.pcviruscare.com/blog/rimuovere-spotlight-v100-exe-completa-procedura-di-rimozione]
+
 (http://it.pcviruscare.com/blog/rimuovere-spotlight-v100-exe-completa-procedura-di-rimozione)
+[http://it.pcviruscare.com/blog/rimuovere-spotlight-v100-exe-completa-procedura-di-rimozione]
+
 
 Attenzione utenti di windows!!!
 
@@ -41,4 +43,4 @@ Freagato!!!
 W Gnu/linux
 
 
-googlando 
+ 
