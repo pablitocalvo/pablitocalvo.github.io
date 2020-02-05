@@ -25,13 +25,12 @@ Analizzando le date delle cartelle presenti si vede che sono state create a sett
 Avrà infilato la sd nel suo portatile e il mac ha creato le strutture dati per indicizzare i file con il componente mac spotlight.
 sembra tutto ok...
 
-ma alcune risultati di google riportano come virus delle pennette ( e rimovibili in genere ) un pericoloso trojan....
+ma alcune risultati di google lo fanno risalire ad un virus delle pennette ( e rimovibili in genere ), un pericoloso trojan:
 
 spotligth-v100.exe !!
 
 
-(http://it.pcviruscare.com/blog/rimuovere-spotlight-v100-exe-completa-procedura-di-rimozione)
-[http://it.pcviruscare.com/blog/rimuovere-spotlight-v100-exe-completa-procedura-di-rimozione]
+(http://it.pcviruscare.com/blog/rimuovere-spotlight-v100-exe-completa-procedura-di-rimozione)[http://it.pcviruscare.com/blog/rimuovere-spotlight-v100-exe-completa-procedura-di-rimozione]
 
 
 Attenzione utenti di windows!!!
