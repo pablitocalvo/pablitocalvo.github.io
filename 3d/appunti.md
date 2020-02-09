@@ -8,3 +8,9 @@ https://it.aliexpress.com/item/32828416914.html?spm=a2g0o.detail.1000023.23.455d
 
 
 https://it.aliexpress.com/item/32619117813.html?spm=a2g0o.detail.1000023.19.16157f7ey4XtTN
+
+
+
+###
+Config 
+https://forum.prusaprinters.org/forum/original-prusa-i3-mk3s-mk3-general-discussion-announcements-and-releases/cura-settings-for-the-original-prusa-i3-printers/
