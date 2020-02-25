@@ -1,3 +1,10 @@
+---
+layout: post.lay
+title:  "Amuchina ridondante"
+date:   2020-02-25 20:24:00 +0100
+categories: blog
+---
+
 Amuchina alle stelle!
 Ecco che allora proliferano post e news su come farselo in casa.
 Anche Burioni non può desistere (giusto! Non sia mai che l aumento dei prezzi disincentivi la corretta igiene)
