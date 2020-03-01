@@ -1,7 +1,7 @@
 ---
 layout: post.lay
 title:  "Epidemie a scuola : Laviamocene le mani"
-date:   2020_03_10 20:24:00 +0100
+date:   2020-03-01 20:24:00 +0100
 categories: blog
 ---
 
