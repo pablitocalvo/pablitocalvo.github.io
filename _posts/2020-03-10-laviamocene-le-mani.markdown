@@ -42,7 +42,7 @@ Solo bisogna farlo per davvero, e non solo metaforicamente.
 
 
 
-![questi si che so' civili](/img/civili.jpg)
+![questi si che so' civili](/img/civili.png)
 
 
 
