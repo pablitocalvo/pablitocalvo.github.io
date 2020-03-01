@@ -14,9 +14,9 @@ Anche io lo farò, ecco la ricetta:
 
 TODO: copiare e incollare la ricetta da qui:
 
-https://www.who.int/infection-prevention/tools/hand-hygiene/handrub-formulations/en/
+[https://www.who.int/infection-prevention/tools/hand-hygiene/handrub-formulations/en/](https://www.who.int/infection-prevention/tools/hand-hygiene/handrub-formulations/en/)
 
-Il fatto che nessuno dei siti abbia linkato il documento di cui comunque si fregiano di averne attinto, fa pensare male. Non è che invece si sia fatto un copia e incolla da un post ad un altro?
+Il fatto che nessuno dei siti abbia linkato il documento di cui comunque si fregiano della conoscenza, fa pensare male. Non è che invece si sia fatto un copia e incolla da un post ad un altro?
 
 Vi state così abituando a non controllare la fonte, e neanche ad esibirla, che creare meme e fake diventa facile..
 
@@ -26,6 +26,11 @@ Il web è nato per questo!
 Linkare non copiare. 
 
 Diffondere non plagiare.
+
+aggiornamento:
+
+Nel web comunque di gente seria ce n'è, Bressanini ad esempio [http://bressanini-lescienze.blogautore.espresso.repubblica.it/2020/02/24/amuchina-fai-da-te-e-isteria-collettiva/](http://bressanini-lescienze.blogautore.espresso.repubblica.it/2020/02/24/amuchina-fai-da-te-e-isteria-collettiva/)
+
 
 
 
