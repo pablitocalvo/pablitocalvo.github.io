@@ -37,8 +37,12 @@ Niente Panico!!
 
 Lavarsi le mani è la prima e anche molto funzionante regola per limitare epidemie del genere.
 
-Solo bisogna farlo per davvero, e non metaforicamente.
+Solo bisogna farlo per davvero, e non solo metaforicamente.
 
+
+
+
+![questi si che so' civili](/img/civili.jpg)
 
 
 
